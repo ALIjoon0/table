@@ -1,4 +1,3 @@
-import './Row.css';
 
 export default function Row({ name, last, no , age , img}) {
   return (
